@@ -12,8 +12,7 @@ Comecei desenvolvendo algoritmos para resolver as atividades da aula, principalm
 
 
 ### Contato
-- 📫 Caso queira entrar em contato comigo para trocarmos alguma ideia:
-[![GitHub badger](https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Fnath%C3%A3--correia-blue)](linkedin.com/in/nathã-correia)
+[![GitHub badger](https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Fnath%C3%A3--correia-blue)](https://linkedin.com/in/nathã-correia)
 
 #### Atenciosamente, Nathã
 

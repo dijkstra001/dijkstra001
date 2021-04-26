@@ -6,7 +6,7 @@ Comecei desenvolvendo algoritmos para resolver as atividades da aula, principalm
 
 ### Objetivos e Hobbies
 - Atualmente, estou estudando Python e R para análise de dados e Java, ReactJS, JS e CSS/HTML para desenvolvimento Web, Mobile e Desktop. Gosto muito de estudar e tenho como principal objetivo me tornar um Engenheiro de Dados. Acredito que a união de tecnologia com as demais áreas da empresa possam possibilitar tomadas de decisões mais assertivas e rápidas. 
-- Nas horas vagas, gosto de ajudar as demais pessoas naquilo em que já tenho conhecimento, além de participar de grupos de estudos e de hackathons. Sou aquela pessoa que acordas às 5:00 todos os dias (faça chuva ou faça sol) para praticar esportes ao ar livre.
+- Nas horas vagas, gosto de ajudar as demais pessoas naquilo em que já tenho conhecimento, além de participar de grupos de estudos e de hackathons. Sou aquela pessoa que acorda às 5:00 todos os dias (faça chuva ou faça sol) para praticar esportes ao ar livre.
 
 ### Meus principais projetos
 

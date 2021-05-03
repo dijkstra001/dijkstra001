@@ -1,4 +1,4 @@
-👋 Olá, meu nome é Nathã, tenho 23 anos e sou natural de Joinville/SC. Seja bem-vindo(a) :)
+## 👋 Olá, meu nome é Nathã.
 
 ### A paixão por programação e tecnologia
 - Desde os 14 anos venho me aventurando nesse mundo da tecnologia. Por motivos pessoais, aprendi a programar (mesmo não tendo os recursos necessários na época) com o intuito de facilitar as atividades que eu executava na escola. Nunca gostei de tarefas manuais e repetitivas, principalmente aquelas que não agregavam muito valor no que era entregue.
@@ -15,7 +15,6 @@ Comecei desenvolvendo algoritmos para resolver as atividades da aula, principalm
 ### Contato
 [![GitHub badger](https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Fnath%C3%A3--correia-blue)](https://linkedin.com/in/nathã-correia)
 
-#### Atenciosamente, Nathã
 
 
 

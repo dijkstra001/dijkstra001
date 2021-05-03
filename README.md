@@ -10,7 +10,7 @@ Comecei desenvolvendo algoritmos para resolver as atividades da aula, principalm
 
 ### Linguagens aprendidas
 - Tenho conhecimento nas linguagens abaixo:
-<img src:"https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0a%2FPython.svg%2F1200px-Python.svg.png&imgrefurl=https%3A%2F%2Fpt.wiktionary.org%2Fwiki%2FFicheiro%3APython.svg&tbnid=XmmuGvoln--UuM&vet=12ahUKEwjg5se6o63wAhW2N7kGHR_fDVgQMygAegUIARDUAQ..i&docid=H2Qko0IOjvP2OM&w=1200&h=1200&q=python%20image&ved=2ahUKEwjg5se6o63wAhW2N7kGHR_fDVgQMygAegUIARDUAQ">
+<img src="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0a%2FPython.svg%2F1200px-Python.svg.png&imgrefurl=https%3A%2F%2Fpt.wiktionary.org%2Fwiki%2FFicheiro%3APython.svg&tbnid=XmmuGvoln--UuM&vet=12ahUKEwjg5se6o63wAhW2N7kGHR_fDVgQMygAegUIARDUAQ..i&docid=H2Qko0IOjvP2OM&w=1200&h=1200&q=python%20image&ved=2ahUKEwjg5se6o63wAhW2N7kGHR_fDVgQMygAegUIARDUAQ">
 
 
 ### Contato

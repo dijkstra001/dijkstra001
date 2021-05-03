@@ -10,9 +10,7 @@ Comecei desenvolvendo algoritmos para resolver as atividades da aula, principalm
 
 ### Linguagens aprendidas
 - Tenho conhecimento nas linguagens abaixo:
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1>
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
 
 
 ### Contato

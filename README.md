@@ -9,7 +9,7 @@ Comecei desenvolvendo algoritmos para resolver as atividades da aula, principalm
 - Nas horas vagas, gosto de ajudar as demais pessoas naquilo em que já tenho conhecimento, além de participar de grupos de estudos e de hackathons. Sou aquela pessoa que acorda às 5:00 todos os dias (faça chuva ou faça sol) para praticar esportes ao ar livre.
 
 ### Linguagens aprendidas
-![GitHub badger](https://img.shields.io/static/v1?label=React&message=16.6.0&color=Blue&style=for-the-badge&logo=GHOST)
+![GitHub badger](https://img.shields.io/static/v1?label=React&message=16.6.0&color=Blue&style=for-the-badge&logo=GHOST) ![GitHub badger](https://img.shields.io/static/v1?label=React&message=16.6.0&color=Blue&style=for-the-badge&logo=GHOST)
 
 
 ### Contato

@@ -10,7 +10,7 @@ Comecei desenvolvendo algoritmos para resolver as atividades da aula, principalm
 
 ### Linguagens aprendidas
 - Tenho conhecimento nas linguagens abaixo:
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+[![GitHub badger](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
 
 
 ### Contato
